@@ -1,0 +1,1 @@
+If you want to download the .bat file, which uses up less storage, run the program as administraitor. I have not checked if this works on future versions of windows. I've tested this file in windows 11 25h2, and only 25h2. Use this file at your own risk. The exe file automattically runs as admin, so no worries there.
